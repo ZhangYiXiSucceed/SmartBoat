@@ -1,0 +1,17 @@
+D:\Workspace\DesignProject\SmartBoat\Software\mcxn9xxbrk_lpuart_edma_transfer1\drivers/fsl_clock.h:1511:20:CLOCK_EnableClock	24	static
+D:\Workspace\DesignProject\SmartBoat\Software\mcxn9xxbrk_lpuart_edma_transfer1\drivers/fsl_gpio.h:328:20:GPIO_PinWrite	24	static
+D:\Workspace\DesignProject\SmartBoat\Software\mcxn9xxbrk_lpuart_edma_transfer1\drivers/fsl_gpio.h:357:20:GPIO_PortSet	16	static
+D:\Workspace\DesignProject\SmartBoat\Software\mcxn9xxbrk_lpuart_edma_transfer1\drivers/fsl_gpio.h:372:20:GPIO_PortClear	16	static
+D:\Workspace\DesignProject\SmartBoat\Software\mcxn9xxbrk_lpuart_edma_transfer1\drivers/fsl_edma.h:665:20:EDMA_SetChannelMux	24	static
+D:\Workspace\DesignProject\SmartBoat\Software\mcxn9xxbrk_lpuart_edma_transfer1\drivers/fsl_ctimer.h:497:20:CTIMER_StartTimer	16	static
+D:\Workspace\DesignProject\SmartBoat\Software\mcxn9xxbrk_lpuart_edma_transfer1\drivers/fsl_ctimer.h:507:20:CTIMER_StopTimer	16	static
+../source/lpuart_edma_transfer.c:134:6:ctimer_match0_callback	16	static
+../source/lpuart_edma_transfer.c:153:6:data_process	4	static
+../source/lpuart_edma_transfer.c:180:6:LPUART_UserCallback	24	static
+../source/lpuart_edma_transfer.c:206:6:uart_write	24	static
+../source/lpuart_edma_transfer.c:217:6:print_remote_data	32	static
+../source/lpuart_edma_transfer.c:227:6:pwm1_init	40	static
+../source/lpuart_edma_transfer.c:257:6:pwm2_init	40	static
+../source/lpuart_edma_transfer.c:286:6:update_pwm_duty_cycle	32	static
+../source/lpuart_edma_transfer.c:316:6:timer_init	16	static
+../source/lpuart_edma_transfer.c:360:5:main	16	static

@@ -1,0 +1,4 @@
+D:\Workspace\DesignProject\SmartBoat\Software\mcxn9xxbrk_lpuart_edma_transfer1\drivers/fsl_clock.h:1511:20:CLOCK_EnableClock	24	static
+D:\Workspace\DesignProject\SmartBoat\Software\mcxn9xxbrk_lpuart_edma_transfer1\drivers/fsl_port.h:355:20:PORT_SetPinConfig	32	static
+../board/pin_mux.c:37:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:63:6:BOARD_InitPins	32	static
