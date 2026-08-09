@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "D:\Workspace\DesignProject\SmartBoat\Software\mcxn9xxbrk_lpuart_edma_transfer1\Debug\mcxn9xxbrk_lpuart_edma_transfer1.hex"
+qc
+
+qc
