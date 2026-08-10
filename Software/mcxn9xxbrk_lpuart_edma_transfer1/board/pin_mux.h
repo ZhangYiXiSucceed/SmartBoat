@@ -37,6 +37,8 @@ void BOARD_InitBootPins(void);
  */
 void BOARD_InitPins(void);
 
+#define PCR_IBE_ibe1 0x01u /*!<@brief Input Buffer Enable: Enables */
+void BOARD_InitI3cPins(void);
 #if defined(__cplusplus)
 }
 #endif
